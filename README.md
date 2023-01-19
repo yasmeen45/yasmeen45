@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Yasmeen! I'm a student at UBC. I'm Passionate about Computer Science :)
+
+Skills:
+- C++
+- Java
+- HTML and CSS
+- JavaScript
+
 <!--
 **yasmeen45/yasmeen45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
