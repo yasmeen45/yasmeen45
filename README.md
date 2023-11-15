@@ -3,7 +3,7 @@
 I'm Yasmeen! I'm a student at UBC.
 
 Skills:
-- C++
+- C/C++
 - Java
 - HTML/CSS
 - JavaScript/TypeScript
